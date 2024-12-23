@@ -9,6 +9,10 @@
     "status": {
       "path": "/_v/status/:code",
       "public": true
+    },
+    "listPokemons": {
+      "path": "/_v/pokemons/list",
+      "public": true
     }
   }
 }
